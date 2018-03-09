@@ -1,0 +1,17 @@
+{
+  "name": "ykit-antd-starter",
+  "version": "1.0.0",
+  "description": "ykit ant-design 示例工程",
+  "main": "index.js",
+  "scripts": {
+    "start": "ykit server -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^2.13.2",
+    "underscore": "^1.8.3",
+    "ykit-config-antd": "^1.2.0"
+  }
+}

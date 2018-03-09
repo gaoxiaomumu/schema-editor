@@ -1,0 +1,46 @@
+@charset "utf-8";
+@import '~antd/dist/antd.css';
+
+body{
+    overflow: hidden;
+    font-size: 16px;
+}
+
+#app {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+}
+
+h1{
+    margin: 0px 0 20px;
+    font-weight: normal;
+}
+
+a {
+    display: block;
+    color: #2891e0;
+}
+
+.wrapper {
+  overflow-y: scroll;
+}
+
+.ant-card {
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+.array-item-type {
+  text-align: left
+}
+
+.col-item {
+  margin-top: 16px;
+  margin-right: 8px;
+}
+
+.add-btn {
+  margin: 8px;
+}
